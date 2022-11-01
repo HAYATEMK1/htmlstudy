@@ -1,0 +1,9 @@
+.box{
+    top: 150vh;
+
+    
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    position: absolute;
+}
